@@ -1,6 +1,7 @@
 *.class
 .DS_Store
-Servers/*
+Servers/
+.springBeans
 .metadata
 .settings
 .classpath
